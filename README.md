@@ -1,7 +1,7 @@
-### Hi there 👋
+## 👋 Hi there
 I'm Sebastien Le Mouillour and this is my professional account on Github
 
-# 📊 Statistics
+## 📊 Statistics
 
 <br>
 <p align=center>
