@@ -5,7 +5,7 @@
 I'm based in France 🇫🇷, currently living in the Central European Time Zone 🕰️. I'm passionate about frontend development, especially with JavaScript, TypeScript, and React 💻. I love building clean, efficient, and well-tested software ✨.
 When I'm not coding, I enjoy spending time with my family ❤️, swimming 🏊, playing squash 🎾, reading manga 📚, or playing video games 🎮.
 
-My work is divided between two GitHub accounts: [noofreuuuh](https://github.com/noofreuuuh) and [smouillour](https://github.com/smouillour)
+My work is divided between two GitHub accounts: [noofreuuuh](https://github.com/noofreuuuh) and [smouillour](https://github.com/smouillour) (which is for professional use)
 
 ## 🔭 I'm currently working on:
 <a href='https://github.com/grasdouble/Lufa'><img src="https://github.com/grasdouble/Lufa/blob/main/images/Lufa_Logo_small.png" width="100" height="100" /></a>
