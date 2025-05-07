@@ -19,7 +19,7 @@ All my repositories are in the GitHub organisation [Grasdouble](https://github.c
 ## 📊 GitHub Stats:
 | Noofreuuuh    | Smouillour    |
 | ------------- | ------------- |
-| ![](https://github-readme-stats.vercel.app/api?username=noofreuuuh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  | ![](https://github-readme-stats.vercel.app/api?username=smouillour&theme=radical&hide_border=false&include_all_commits=false&count_private=true)  |
+| ![](https://github-readme-stats.vercel.app/api?username=noofreuuuh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  | ![](https://github-readme-stats.vercel.app/api?username=smouillour&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  |
 | ![](https://nirzak-streak-stats.vercel.app/?user=noofreuuuh&theme=radical&hide_border=false)                                                     | ![](https://nirzak-streak-stats.vercel.app/?user=smouillour&theme=radical&hide_border=false)  |
 
 ## 🏆 GitHub Trophies
