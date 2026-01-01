@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@dev.n2ofr" alt="Medium" />
-  <img src="https://komarev.com/ghpvc/?username=noofreuuuh&label=Profile+views&color=F7971E&style=flat-square" alt="Github profile views" />
 </p>
 
 
@@ -61,7 +60,7 @@ All my repositories are in the GitHub organisation [Grasdouble](https://github.c
 </p>
 
 
-## 📊 noofreuuuh account stat
+## 📊 noofreuuuh account stat   <img src="https://komarev.com/ghpvc/?username=noofreuuuh&label=Profile+views&color=F7971E&style=flat-square" alt="Github profile views" />
 
 <div align="center">
 
@@ -84,7 +83,7 @@ All my repositories are in the GitHub organisation [Grasdouble](https://github.c
 </div>
 
 
-## 📊 smouillour account stats
+## 📊 smouillour account stats   <img src="https://komarev.com/ghpvc/?username=smouillour&label=Profile+views&color=F7971E&style=flat-square" alt="Github profile views" />
 
 <div align="center">
 
